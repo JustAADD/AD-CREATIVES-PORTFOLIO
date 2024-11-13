@@ -101,3 +101,7 @@ section {
     background-color: #232323;
 
 }
+
+.visual-search img{
+    display: none;
+}
